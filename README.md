@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository.
 <br>
-Author-Kumarjit Haldi
+Author-Kumarjit Haldi(BTECH /CSE(AIML))
